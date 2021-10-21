@@ -8,7 +8,7 @@ namespace ArbeitenMitVariablen
         {
             string namenils = "Nils";
             string nameSven = "Sven";
-            string begruessung = "Guten Tag";
+            string begruessung = "Mega guten Tag";
             string abschied = "Schönen Tag";
             string begruessungVonNils = begruessung+" "+namenils;
             string verabschiedeNils = abschied+" "+namenils;
@@ -17,7 +17,7 @@ namespace ArbeitenMitVariablen
             Console.WriteLine(begruessungVonNils);
             Console.WriteLine(verabschiedeNils);
             Console.WriteLine(begruessungVonSven);
-            Console.WriteLine(verabschiedungVonSven);
+            Console.WriteLine(verabschiedeNils);
 
 
 
