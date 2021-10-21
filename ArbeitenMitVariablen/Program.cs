@@ -17,7 +17,7 @@ namespace ArbeitenMitVariablen
             Console.WriteLine(begruessungVonNils);
             Console.WriteLine(verabschiedeNils);
             Console.WriteLine(begruessungVonSven);
-            Console.WriteLine(verabschiedungVonSven);
+            Console.WriteLine(verabschiedeNils);
 
 
 
